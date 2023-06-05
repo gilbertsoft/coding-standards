@@ -1,0 +1,12 @@
+parameters:
+	level: max
+	phpVersion: 80100
+	checkMissingIterableValueType: true
+	treatPhpDocTypesAsCertain: false
+
+	bootstrapFiles:
+		- tools/phpunit/vendor/autoload.php
+
+	paths:
+		- src
+		- tests

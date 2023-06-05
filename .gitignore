@@ -1,0 +1,9 @@
+/.idea/
+/.build/
+/.phplint.cache
+/var/*
+/vendor/
+/.php-cs-fixer.cache
+/.phplint-cache
+/.phpunit.result.cache
+/composer.lock
